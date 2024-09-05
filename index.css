@@ -1,0 +1,33 @@
+.hero-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+}
+
+.service-box {
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+.service-icon {
+    font-size: 40px;
+    color: #007bff;
+    margin-bottom: 15px;
+}
+
+#about, #services, #doctors, #contact, #appointment {
+    padding-top: 70px;
+}
+.h1 
+{
+     text-transform: uppercase; 
+     color: blue;
+}
+.navbar-brand
+{
+    color: blue;
+}
